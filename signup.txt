@@ -1,2 +1,5 @@
 UserName
 Password
+phone_number
+Email
+password
